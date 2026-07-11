@@ -2,13 +2,11 @@
 
 ## 📌 Overview
 
-This repository contains all the projects, exercises, and learning materials completed during my **Machine Learning & Deep Learning Internship**. Throughout this internship, I explored the complete machine learning workflow—from data preprocessing and visualization to building classical machine learning and deep learning models for image and text-based tasks.
-
-The internship provided hands-on experience with Python libraries, data preprocessing, supervised and unsupervised learning, computer vision, natural language processing (NLP), and neural networks.
+This repository showcases the projects and practical exercises completed during my **Machine Learning & Deep Learning Internship**. Throughout the internship, I explored the end-to-end machine learning workflow, including data preprocessing, visualization, classical machine learning, deep learning, computer vision, and natural language processing.
 
 ---
 
-# 🛠️ Technologies & Libraries
+## 🛠️ Technologies Used
 
 - Python
 - NumPy
@@ -17,294 +15,72 @@ The internship provided hands-on experience with Python libraries, data preproce
 - Seaborn
 - Scikit-learn
 - OpenCV
-- TensorFlow
-- Keras
+- TensorFlow / Keras
 - NLTK
-- PyTorch (Introduction)
+- PyTorch (Basics)
 
 ---
 
-# 📅 Internship Timeline
+## 📅 Internship Journey
 
-## 📍 Day 1 – Introduction to AI & Machine Learning
+### 📍 Day 1
+- Introduction to AI, ML, DL & Generative AI
+- Python libraries and data preprocessing
+- Data visualization & encoding techniques
 
-### Topics Covered
-- Introduction to Artificial Intelligence
-- Machine Learning Fundamentals
-- Deep Learning Overview
-- Generative AI Basics
+### 📍 Day 2
+- Feature scaling and ML workflow
+- Supervised, Unsupervised & Reinforcement Learning
+- Regression, Classification & Model Evaluation
 
-### Python Libraries
-- Pandas
-- Matplotlib
-- Seaborn
-- OpenCV
-- LabelEncoder (Scikit-learn)
+### 📍 Day 3
+- Correlation analysis and feature relationships
 
-### Data Preprocessing
-- Features vs Samples
-- Mean
-- Median
-- Mode
-- Standard Deviation
-- Missing Value Handling
-- Box Plot
-- Histogram
-- Scatter Plot
-- Line Plot
+### 📍 Day 4
+- Image processing fundamentals
+- Introduction to Natural Language Processing (NLP)
 
-### Encoding Techniques
-- Label Encoding
-- One-Hot Encoding
-- Ordinal Encoding
+### 📍 Day 5
+- Text preprocessing using NLTK
+- Tokenization, Stopword Removal & Lemmatization
 
-### Outcome
-Developed a foundational understanding of machine learning concepts, preprocessing techniques, and essential Python libraries.
+### 📍 Day 6
+- Deep Learning fundamentals
+- ANN, CNN, Forward & Backpropagation
+- Overfitting vs Underfitting
 
----
+### 📍 Day 7
+- Sequential models
+- RNN, LSTM, Padding & Token Encoding
 
-## 📍 Day 2 – Data Scaling & Machine Learning Workflow
+### 📍 Day 8
+- Working with CSV, Image, Text & Audio datasets
+- Autoencoders and Variational Autoencoders (VAE)
 
-### Data Scaling
-- Min-Max Scaling
-- Standardization (Z-score)
-
-### Machine Learning Types
-- Supervised Learning
-- Unsupervised Learning
-- Reinforcement Learning
-
-### Machine Learning Workflow
-1. Data Collection
-2. Data Preprocessing
-3. Data Visualization
-4. Model Building
-5. Model Evaluation
-6. Deployment
-
-### Regression Algorithms
-- Linear Regression
-- Polynomial Regression
-- Lasso Regression
-- Ridge Regression
-
-### Classification Algorithms
-- Logistic Regression
-- Naive Bayes
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-
-### Model Evaluation Metrics
-
-Regression
-- MAE
-- MSE
-- RMSE
-- R² Score
-
-Classification
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- ROC-AUC
-
-### Outcome
-Learned how machine learning models are developed, trained, and evaluated using different algorithms and performance metrics.
+### 📍 Day 9
+- Training, Validation & Testing datasets
+- Deep learning model validation
 
 ---
 
-## 📍 Day 3 – Correlation Analysis
+## 🚀 Skills Gained
 
-### Topics Covered
-- Positive Correlation
-- Negative Correlation
-- Correlation Coefficient
-- Feature Relationships
-
-### Outcome
-Learned how correlation helps identify relationships between variables and supports feature selection during model building.
-
----
-
-## 📍 Day 4 – Image Processing & NLP Introduction
-
-### Image Processing
-- Pixels
-- RGB Images
-- Grayscale Images
-- Binary Images
-- RGBA
-- CMYK
-- Image Scaling
-
-### Natural Language Processing
-- Text Preprocessing
-- Text Classification
-- Named Entity Recognition (NER)
-
-### Outcome
-Gained an understanding of image representations and the fundamentals of Natural Language Processing.
-
----
-
-## 📍 Day 5 – Natural Language Processing
-
-### NLTK
-- Tokenization
-- Stopword Removal
-- Lemmatization
-- WordNet
-
-### Required NLP Resources
-- punkt
-- punkt_tab
-- stopwords
-- wordnet
-- omw-1.4
-
-### Libraries Used
-- NumPy
-- Pandas
-- OpenCV
-- Scikit-learn
-- TensorFlow/Keras
-- PyTorch
-
-### Outcome
-Learned the complete NLP preprocessing pipeline for preparing textual data for machine learning models.
-
----
-
-## 📍 Day 6 – Deep Learning Fundamentals
-
-### Topics Covered
-- Artificial Neural Networks (ANN)
-- Forward Propagation
-- Backpropagation
-- Loss Calculation
-- Weight Updates
-
-### Model Performance
-- Overfitting
-- Underfitting
-
-### Deep Learning Models
-- Convolutional Neural Networks (CNN)
-- Recurrent Neural Networks (RNN)
-
-### Outcome
-Built a strong conceptual understanding of how neural networks learn through forward and backward propagation.
-
----
-
-## 📍 Day 7 – Sequence Models
-
-### Recurrent Neural Networks
-- Sequence Generation
-- Padding
-- Token Encoding
-
-### Long Short-Term Memory (LSTM)
-- Forget Gate
-- Input Gate
-- Cell State
-- Output Gate
-
-### Outcome
-Learned how sequential data is processed using RNNs and how LSTMs solve the vanishing gradient problem.
-
----
-
-## 📍 Day 8 – Working with Different Data Types
-
-### Dataset Types
-- CSV Files
-- Image Datasets
-- Text Datasets
-- Audio Datasets
-
-### Autoencoders
-- Basic Autoencoder
-- Denoising Autoencoder
-- Sparse Autoencoder
-- Variational Autoencoder (VAE)
-
-### Outcome
-Explored different data formats and learned how autoencoders compress and reconstruct data.
-
----
-
-## 📍 Day 9 – Deep Learning Model Validation
-
-### Topics Covered
-- Training Dataset
-- Validation Dataset
-- Testing Dataset
-
-### Outcome
-Understood the importance of validation datasets for monitoring model performance and preventing overfitting.
-
----
-
-# 🚀 Skills Acquired
-
-- Data Cleaning
-- Data Visualization
-- Feature Engineering Basics
-- Data Scaling
+- Data Preprocessing & Visualization
 - Machine Learning Algorithms
-- Regression
-- Classification
 - Model Evaluation
-- Image Processing
-- Computer Vision Fundamentals
+- Computer Vision Basics
 - Natural Language Processing
 - Artificial Neural Networks
-- CNN
-- RNN
-- LSTM
+- CNN, RNN & LSTM
 - Autoencoders
-- Deep Learning Workflow
+- End-to-End ML & DL Workflow
 
 ---
 
-# 📂 Repository Structure
+## 🎯 Learning Outcome
 
-```
-Day-01/
-Day-02/
-Day-03/
-Day-04/
-Day-05/
-Day-06/
-Day-07/
-Day-08/
-Day-09/
-README.md
-```
+This internship strengthened my understanding of the complete Machine Learning and Deep Learning pipeline through hands-on projects, covering data preprocessing, model development, evaluation, computer vision, NLP, and neural networks while building practical problem-solving skills.
 
 ---
 
-# 🎯 Learning Outcome
-
-By the end of this internship, I gained practical experience in the complete Machine Learning and Deep Learning pipeline, including:
-
-- Data preprocessing and feature engineering
-- Data visualization techniques
-- Classical machine learning algorithms
-- Model evaluation methods
-- Computer vision fundamentals
-- Natural language processing
-- Artificial neural networks
-- Deep learning architectures (CNN, RNN, LSTM)
-- Autoencoders
-- Working with structured, image, text, and audio datasets
-
-These concepts were reinforced through hands-on coding exercises and practical projects completed during the internship.
-
----
-
-# 📌 Note
-
-This repository is intended for educational purposes and documents my learning journey throughout the internship. Each day's work reflects the concepts explored, practical implementations, and progressive understanding of Machine Learning and Deep Learning. 
+> **Note:** This repository documents my learning journey and practical implementations completed during the internship.
